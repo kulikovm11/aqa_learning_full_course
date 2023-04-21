@@ -1,0 +1,50 @@
+21:32:04 | INFO | WebDriverThreadLocalContainer:138        | No webdriver is bound to current thread: 1 - let's create a new webdriver
+21:32:04 | INFO | FileHelper:56                            | Creating folder: E:\aqa_learning\build\downloads\1681497124530_860_1
+21:32:05 | INFO | WebDriverManager:966                     | Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+21:32:05 | INFO | WebDriverManager:1021                    | Exporting webdriver.chrome.driver as C:\Users\kulik\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+21:32:07 | INFO | HttpClientTimeouts:81                    | Changed connectTimeout from 120000 to 60000
+21:32:07 | INFO | HttpClientTimeouts:82                    | Changed readTimeout from 10800000 to 120000
+21:32:07 | INFO | WebDriverFactory:138                     | BrowserName=chrome Version=111.0.5563.149 Platform=WINDOWS
+21:32:07 | INFO | WebDriverFactory:79                      | Selenide v. 5.25.1
+21:32:07 | INFO | WebDriverFactory:132                     | Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
+21:32:07 | INFO | CreateDriverCommand:71                   | Create webdriver in current thread 1: ChromeDriver -> ChromeDriver: chrome on WINDOWS (d67e9afc20c78395b60978a77ea0130d)
+21:32:07 | INFO | WebDriverThreadLocalContainer:163        | Browser and proxy will stay open due to holdBrowserOpen=true: 1 -> ChromeDriver: chrome on WINDOWS (d67e9afc20c78395b60978a77ea0130d), null
+21:32:08 | INFO | LoginPage:24                             | Type user name ', element -> By.xpath: //input[@placeholder='Username']
+21:32:08 | INFO | LoginPage:24                             | Type user password ', element -> By.xpath: //input[@placeholder='Password']
+21:32:08 | INFO | LoginPage:24                             | Click login button ', element -> By.xpath: //input[@type='submit']
+21:32:10 | INFO | MainPage:24                              | Get items ', elements -> By.xpath: //div[contains(@class,'inventory_item_name')]
+21:32:10 | INFO | MainPage:24                              | Get items ', elements -> By.xpath: //div[@class='inventory_item_desc']
+21:32:10 | INFO | MainPage:24                              | Get items ', elements -> By.xpath: //div[@class='inventory_item_price']
+21:32:10 | INFO | ItemDetailsPage:24                       | Get detail item ', element -> By.xpath: //div[@class='inventory_details_name large_size']
+21:32:10 | INFO | ItemDetailsPage:24                       | Get detail item ', element -> By.xpath: //div[@class='inventory_details_desc large_size']
+21:32:11 | INFO | ItemDetailsPage:24                       | Get detail item ', element -> By.xpath: //div[@class='inventory_details_price']
+21:32:11 | INFO | LoginPage:24                             | Type user name ', element -> By.xpath: //input[@placeholder='Username']
+21:32:11 | INFO | LoginPage:24                             | Type user password ', element -> By.xpath: //input[@placeholder='Password']
+21:32:11 | INFO | LoginPage:24                             | Click login button ', element -> By.xpath: //input[@type='submit']
+21:32:12 | INFO | MainPage:24                              | Click element from main page by name ', element -> By.xpath: //div[text()='Sauce Labs Bike Light']
+21:32:12 | INFO | ItemDetailsPage:24                       | Is back to products btn present ', element is exist -> By.xpath: //button[text()='Back to products']
+21:32:12 | INFO | LoginPage:24                             | Type user name ', element -> By.xpath: //input[@placeholder='Username']
+21:32:12 | INFO | LoginPage:24                             | Type user password ', element -> By.xpath: //input[@placeholder='Password']
+21:32:12 | INFO | LoginPage:24                             | Click login button ', element -> By.xpath: //input[@type='submit']
+21:32:13 | INFO | FilterPage:24                            | Click option by id ', element -> By.xpath: //option[2]
+21:32:13 | INFO | MainPage:24                              | Get main page headers text ', elements -> By.xpath: //div[contains(@class,'inventory_item_name')]
+21:32:13 | INFO | LoginPage:24                             | Type user name ', element -> By.xpath: //input[@placeholder='Username']
+21:32:13 | INFO | LoginPage:24                             | Type user password ', element -> By.xpath: //input[@placeholder='Password']
+21:32:14 | INFO | LoginPage:24                             | Click login button ', element -> By.xpath: //input[@type='submit']
+21:32:14 | INFO | MainPage:24                              | Get main page headers text ', elements -> By.xpath: //div[contains(@class,'inventory_item_name')]
+21:32:14 | INFO | MainPage:24                              | Get add to cart list ', elements -> By.xpath: //button[text()='Add to cart']
+21:32:14 | INFO | MainPage:24                              | Click add to cart btn ', element -> By.xpath: //button[text()='Add to cart']
+21:32:14 | INFO | MainPage:24                              | Get add to cart list ', elements -> By.xpath: //button[text()='Add to cart']
+21:32:14 | INFO | MainPage:24                              | Click add to cart btn ', element -> By.xpath: //button[text()='Add to cart']
+21:32:14 | INFO | MainPage:24                              | Get add to cart list ', elements -> By.xpath: //button[text()='Add to cart']
+21:32:14 | INFO | MainPage:24                              | Click add to cart btn ', element -> By.xpath: //button[text()='Add to cart']
+21:32:14 | INFO | MainPage:24                              | Get add to cart list ', elements -> By.xpath: //button[text()='Add to cart']
+21:32:15 | INFO | MainPage:24                              | Click add to cart btn ', element -> By.xpath: //button[text()='Add to cart']
+21:32:15 | INFO | MainPage:24                              | Get add to cart list ', elements -> By.xpath: //button[text()='Add to cart']
+21:32:15 | INFO | MainPage:24                              | Click add to cart btn ', element -> By.xpath: //button[text()='Add to cart']
+21:32:15 | INFO | MainPage:24                              | Get add to cart list ', elements -> By.xpath: //button[text()='Add to cart']
+21:32:15 | INFO | MainPage:24                              | Click add to cart btn ', element -> By.xpath: //button[text()='Add to cart']
+21:32:15 | INFO | MainPage:24                              | Get add to cart list ', elements -> By.xpath: //button[text()='Add to cart']
+21:32:15 | INFO | CartPage:24                              | Get elements names from shopping cart ', elements -> By.xpath: //div[contains(@class,'inventory_item_name')]
+21:32:16 | INFO | CloseDriverCommand:24                    | Hold browser and proxy open: 27 -> ChromeDriver: chrome on WINDOWS (d67e9afc20c78395b60978a77ea0130d), null
+21:32:16 | INFO | FileHelper:81                            | Deleted empty folder: E:\aqa_learning\build\downloads\1681497124530_860_1

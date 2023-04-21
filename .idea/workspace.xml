@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8cbe0f72-e672-45a3-a4e1-f6af7f67ea2c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Items/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/CartPage/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/FilterPage/FilterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/ItemDetailsPage/ItemDetailsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/LoginPage/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/MainPage/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/Pages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/base/CustomLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/base/LocatorParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/base/PageTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/restAssuredTools/CreateUser/CreateUserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/restAssuredTools/CreateUser/CreateUserResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/restAssuredTools/RegisterSuccessful/RegisterSuccessfulRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/restAssuredTools/RegisterSuccessful/RegisterSuccessfulResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/restAssuredTools/Specifications.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/restAssuredTools/UpdateUser/UpdateUserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/restAssuredTools/UpdateUser/UpdateUserResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/restAssuredTools/User/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/restAssuredTools/utils/DataDeserializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/allure.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/testSuits.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/Lesson10Pojo/RestAssuredPojoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/Lesson6FrameWorkTest/L6FrameWorkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/PageObjPattern/PageObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/lesson1/FirstTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/lesson7detailItemTest/VerifyDetailItemCorespItemFromMainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/lesson8/ClickElementByNameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/lesson8/VerifyFiltersWorkCorrectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/lesson8/VerifyUserIsAbleToAddItemsToShoppingCartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/lesson9_API_testing/RestTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NK1gfKKyOhwQMTqkA6donLGGq5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/aqa_learning/src/test/java/testPackage&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="restAssuredTools" />
+      <recent name="Pages.ItemDetailsPage" />
+      <recent name="Pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RestAssuredPojoTest.updateUserTest">
+    <configuration name="RestAssuredPojoTest.RestAssuredPojoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="aqa_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testPackage.Lesson10Pojo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testPackage.Lesson10Pojo" />
+      <option name="MAIN_CLASS_NAME" value="testPackage.Lesson10Pojo.RestAssuredPojoTest" />
+      <option name="METHOD_NAME" value="RestAssuredPojoTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestAssuredPojoTest.createUserTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="aqa_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testPackage.Lesson10Pojo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testPackage.Lesson10Pojo" />
+      <option name="MAIN_CLASS_NAME" value="testPackage.Lesson10Pojo.RestAssuredPojoTest" />
+      <option name="METHOD_NAME" value="createUserTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestAssuredPojoTest.registerSuccessfulTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="aqa_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testPackage.Lesson10Pojo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testPackage.Lesson10Pojo" />
+      <option name="MAIN_CLASS_NAME" value="testPackage.Lesson10Pojo.RestAssuredPojoTest" />
+      <option name="METHOD_NAME" value="registerSuccessfulTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestAssuredPojoTest.updateUserTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="aqa_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testPackage.Lesson10Pojo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testPackage.Lesson10Pojo" />
+      <option name="MAIN_CLASS_NAME" value="testPackage.Lesson10Pojo.RestAssuredPojoTest" />
+      <option name="METHOD_NAME" value="updateUserTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestTest.restAssuredTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="aqa_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testPackage.lesson9_API_testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testPackage.lesson9_API_testing" />
+      <option name="MAIN_CLASS_NAME" value="testPackage.lesson9_API_testing.RestTest" />
+      <option name="METHOD_NAME" value="restAssuredTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RestAssuredPojoTest.updateUserTest" />
+        <item itemvalue="TestNG.RestAssuredPojoTest.registerSuccessfulTest" />
+        <item itemvalue="TestNG.RestAssuredPojoTest.createUserTest" />
+        <item itemvalue="TestNG.RestAssuredPojoTest.RestAssuredPojoTest" />
+        <item itemvalue="TestNG.RestTest.restAssuredTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cbe0f72-e672-45a3-a4e1-f6af7f67ea2c" name="Changes" comment="" />
+      <created>1679398075227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679398075227</updated>
+      <workItem from="1679398076914" duration="2818000" />
+      <workItem from="1679401487885" duration="745000" />
+      <workItem from="1679422684084" duration="4000" />
+      <workItem from="1679941313923" duration="1298000" />
+      <workItem from="1679942821213" duration="54000" />
+      <workItem from="1679993446932" duration="2542000" />
+      <workItem from="1680591762912" duration="5956000" />
+      <workItem from="1680684346157" duration="433000" />
+      <workItem from="1680772077810" duration="4000" />
+      <workItem from="1680849742882" duration="7242000" />
+      <workItem from="1681198432626" duration="10130000" />
+      <workItem from="1681463976313" duration="10880000" />
+      <workItem from="1681889999330" duration="4734000" />
+      <workItem from="1682061329416" duration="7793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
